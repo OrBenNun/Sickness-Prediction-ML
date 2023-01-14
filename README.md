@@ -1,4 +1,4 @@
-# Sickness-Prediction-ML
+# Sickness Prediction ML
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*CQXQxHDKi0Q2IpdjhufEcw.jpeg)
 
 
